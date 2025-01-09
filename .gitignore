@@ -8,3 +8,4 @@ mixap/.env
 supabase/.gitkeep
 supabase/yarn.lock
 yarn.lock
+mixap/.env.local.supa
